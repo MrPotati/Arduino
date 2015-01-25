@@ -1,18 +1,18 @@
-/********************************************************************************/
-/* Nombre: SainsmartLCD-ES.txt                                                  */
-/*                                                                              */
-/* Autor:  Sergio PL                                                            */
-/*         http://idielectronica.blogspot.com/                                  */
-/*         http://github.com/MrPotati/                                          */
-/*                                                                              */
-/* Fecha:  09-08-2014                                                           */
-/*                                                                              */
-/* Descripción: Este código fue creado para usar el módulo de LCD SainSmart     */
-/* de 20x4 con el Arduino Uno. Para utilizarlo necesitas reemplazar la          */
-/* librería LiquidCrystal_I2C con el archivo LiquidCrystal_V1.2.1.zip           */
-/* creado por F. Malpartida.                                                    */
-/*                                                                              */
-/********************************************************************************/
+//////////////////////////////////////////////////////////////////////////////////
+// Nombre: SainsmartLCD-ES.txt                                                  //
+//                                                                              //
+// Autor:  Sergio PL                                                            //
+//         http://idielectronica.blogspot.com/                                  //
+//         http://github.com/MrPotati/                                          //
+//                                                                              //
+// Fecha:  09-08-2014                                                           //
+//                                                                              //
+// Descripción: Este código fue creado para usar el módulo de LCD SainSmart     //
+// de 20x4 con el Arduino Uno. Para utilizarlo necesitas reemplazar la          //
+// librería LiquidCrystal_I2C con el archivo LiquidCrystal_V1.2.1.zip           //
+// creado por F. Malpartida.                                                    //
+//                                                                              //
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <Wire.h>                        // Carga librería de interfaz I2C
 

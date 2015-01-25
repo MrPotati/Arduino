@@ -1,17 +1,17 @@
-/********************************************************************************/
-/* Nombre: SainsmartLCD.txt                                                     */
-/*                                                                              */
-/* Autor:  Sergio PL                                                            */
-/*         http://idielectronica.blogspot.com/                                  */
-/*         http://github.com/MrPotati/                                          */
-/*                                                                              */
-/* Fecha:  09-08-2014                                                           */
-/*                                                                              */
-/* Descripción: This code was designed to use the 20x4 SainSmart LCD module     */
-/* with the Arduino Uno. To use it, you need to replace the LiquidCrystal_I2C   */
-/* with LiquidCrystal_V1.2.1.zip, created by F. Malpartida.                     */
-/*                                                                              */
-/********************************************************************************/
+//////////////////////////////////////////////////////////////////////////////////
+// Name:   SainsmartLCD.txt                                                     //
+//                                                                              //
+// Author: Sergio PL                                                            //
+//         http://idielectronica.blogspot.com/                                  //
+//         http://github.com/MrPotati/                                          //
+//                                                                              //
+// Date:   09-08-2014                                                           //
+//                                                                              //
+// Description: This code was designed to use the 20x4 SainSmart LCD module     //
+// with the Arduino Uno. To use it, you need to replace the LiquidCrystal_I2C   //
+// with LiquidCrystal_V1.2.1.zip, created by F. Malpartida.                     //
+//                                                                              //
+//////////////////////////////////////////////////////////////////////////////////
 
 #include <Wire.h>                  // Loads I2C interface library
 #include <LiquidCrystal_I2C.h>     // Loads LCD library for I2C 
