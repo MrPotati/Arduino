@@ -3,7 +3,7 @@
 //                                                                              //
 // Author: Sergio PL                                                            //
 //         http://idielectronica.blogspot.com/                                  //
-//         http://github.com/MrPotati/                                          //
+//         http://github.com/sphanlung/                                          //
 //                                                                              //
 // Date:   09-08-2014                                                           //
 //                                                                              //
